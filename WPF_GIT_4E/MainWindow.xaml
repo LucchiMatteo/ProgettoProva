@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label x:Name="lblStampa" Content="Label" HorizontalAlignment="Left" Height="33" Margin="153,127,0,0" VerticalAlignment="Top" Width="161"/>
+        <Button x:Name="btnStampa" Content="Stampa" HorizontalAlignment="Left" Margin="428,160,0,0" VerticalAlignment="Top" Height="57" Width="144" Click="btnStampa_Click"/>
 
     </Grid>
 </Window>
